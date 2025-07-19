@@ -1,0 +1,18 @@
+﻿  Buffer.cpp
+  BufferPool.cpp
+  ikcp.cpp
+  Manager.cpp
+  RWLock.cpp
+  SocketHelper.cpp
+  stdafx.cpp
+  SysHelper.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  WaitFor.cpp
+  ShellManager.cpp
+  远程终端.cpp
+     正在创建库 J:\window\Quick\主插件\Release\远程终端.lib 和对象 J:\window\Quick\主插件\Release\远程终端.exp
+LINK : warning LNK4232: 名称 远程终端.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  已完成代码的生成
+  远程终端.vcxproj -> J:\window\Quick\主插件\Release\远程终端.dll
