@@ -1,0 +1,23 @@
+﻿  Buffer.cpp
+  BufferPool.cpp
+  ikcp.cpp
+  Manager.cpp
+  RWLock.cpp
+  SocketHelper.cpp
+  stdafx.cpp
+  SysHelper.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  WaitFor.cpp
+  help.cpp
+  KillAv.cpp
+  md5.cpp
+  LoginManager.cpp
+  MemoryModule.cpp
+  登录模块.cpp
+  Input.cpp
+     正在创建库 J:\window\Quick\主插件\Release\登录模块.lib 和对象 J:\window\Quick\主插件\Release\登录模块.exp
+LINK : warning LNK4232: 名称 登录模块.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  已完成代码的生成
+  登录模块.vcxproj -> J:\window\Quick\主插件\Release\登录模块.dll
