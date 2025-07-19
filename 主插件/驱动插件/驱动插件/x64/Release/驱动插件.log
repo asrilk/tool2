@@ -1,0 +1,56 @@
+﻿  Buffer.cpp
+  BufferPool.cpp
+  ikcp.cpp
+  Manager.cpp
+  RWLock.cpp
+  SocketHelper.cpp
+  stdafx.cpp
+  SysHelper.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  WaitFor.cpp
+  CloseNet.cpp
+CloseNet.cpp(66): warning C4101: “oldProtection2”: 未引用的局部变量
+CloseNet.cpp(66): warning C4101: “oldProtection”: 未引用的局部变量
+CloseNet.cpp(77): warning C4101: “oldProtection2”: 未引用的局部变量
+CloseNet.cpp(77): warning C4101: “oldProtection”: 未引用的局部变量
+CloseNet.cpp(339): warning C4309: “初始化”: 截断常量值
+CloseNet.cpp(339): warning C4309: “初始化”: 截断常量值
+CloseNet.cpp(339): warning C4309: “初始化”: 截断常量值
+CloseNet.cpp(339): warning C4309: “初始化”: 截断常量值
+CloseNet.cpp(339): warning C4309: “初始化”: 截断常量值
+CloseNet.cpp(437): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+  HiddenLib.cpp
+HiddenLib.cpp(166): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+HiddenLib.cpp(195): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+HiddenLib.cpp(206): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+HiddenLib.cpp(289): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(289): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(299): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(526): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(526): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(540): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(720): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(725): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(725): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidPsInheritTypes”
+HiddenLib.cpp(762): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(767): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(767): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidPsInheritTypes”
+HiddenLib.cpp(807): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(812): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+HiddenLib.cpp(812): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidPsInheritTypes”
+HiddenLib.cpp(833): warning C4101: “status”: 未引用的局部变量
+HiddenLib.cpp(856): warning C4101: “status”: 未引用的局部变量
+  KernrlManager.cpp
+KernrlManager.cpp(286): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+KernrlManager.cpp(305): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+KernrlManager.cpp(305): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidActiveState”
+KernrlManager.cpp(358): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+KernrlManager.cpp(360): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+KernrlManager.cpp(362): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“HidRegRootTypes”
+  驱动插件.cpp
+     正在创建库 J:\window\Quick\主插件\x64\Release\驱动插件.lib 和对象 J:\window\Quick\主插件\x64\Release\驱动插件.exp
+LINK : warning LNK4232: 名称 驱动插件.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  已完成代码的生成
+  驱动插件.vcxproj -> J:\window\Quick\主插件\x64\Release\驱动插件.dll
