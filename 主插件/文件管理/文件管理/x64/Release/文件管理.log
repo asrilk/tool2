@@ -1,0 +1,20 @@
+﻿  Buffer.cpp
+  BufferPool.cpp
+  ikcp.cpp
+  Manager.cpp
+  RWLock.cpp
+  SocketHelper.cpp
+  stdafx.cpp
+  SysHelper.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  WaitFor.cpp
+  FileManager.cpp
+  zip.cpp
+  文件管理.cpp
+  MasterEncoder.cpp
+     正在创建库 J:\window\Quick\主插件\x64\Release\文件管理.lib 和对象 J:\window\Quick\主插件\x64\Release\文件管理.exp
+LINK : warning LNK4232: 名称 文件管理.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  已完成代码的生成
+  文件管理.vcxproj -> J:\window\Quick\主插件\x64\Release\文件管理.dll
