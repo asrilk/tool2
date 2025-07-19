@@ -1,0 +1,104 @@
+﻿Build started 2025/7/14 13:08:20.
+     1>Project "C:\Users\Administrator\Desktop\winos\主控\Quick\Quick.vcxproj" on node 2 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Quick.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Quick.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AudioCode.cpp BmpToAvi.cpp Buffer.cpp CFileListCtrl.cpp ChartView.cpp InjectCodeDlg.cpp KernelDlg.cpp HpTcpServer.cpp HpUdpServer.cpp ipc.cpp ISocketBase.cpp LockDlg.cpp LogView.cpp MainFrm.cpp md5.cpp MemoryModule.cpp ProxyMapDlg.cpp QuickScreenSpyDlg.cpp SEU_QQwry.cpp SoundToWav.h.cpp stdafx.cpp TipCtrl.cpp TipfileCtrl.cpp TKYLockRW.cpp WaveIn.cpp WaveOut.cpp WavePlayback.cpp WaveRecord.cpp Quick.cpp QuickDoc.cpp QuickView.cpp ShellDlg.cpp Chat.cpp FileManagerDlg.cpp FileTransferModeDlg.cpp InputDlg.cpp LFileName.cpp RegeditDlg.cpp RegeditTextDlg.cpp SpeakerDlg.cpp AudioRender.cpp AudioCapture.cpp WebCamDlg.cpp MovieMaker.cpp BuildDlg.cpp AudioDlg.cpp DifScreenSpyDlg.cpp BmpToAvidif.cpp ExpandDlg.cpp ServiceInfoDlg.cpp KeyBoardDlg.cpp MachineDlg.cpp HideScreenSpyDlg.cpp CTextDlg.cpp DllToShellCode.cpp H264ScreenSpyDlg.cpp LocalUpload.cpp PlugView.cpp XvidDec.cpp DDOSAttackDlg.cpp FlowAttackDlg.cpp WebAttackDlg.cpp ProxyConnectServer.cpp LOGIN.cpp TabView.cpp ScreenMonitorDlg.cpp CCreateTaskDlg.cpp ChangeGroupDlg.cpp CopyClientDlg.cpp
+         AudioCode.cpp
+         --------------------------------------------------------------------------------
+         Including Xtreme Toolkit Pro
+         Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+         Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+         Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+         Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+            - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+         Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+         Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+         Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+         Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+         Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+         Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+         Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+         Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+         Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+         Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+         Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+         Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+         --------------------------------------------------------------------------------
+         Automatically linking with ToolkitPro1850vc100SU.lib
+         BmpToAvi.cpp
+         Buffer.cpp
+         CFileListCtrl.cpp
+         ChartView.cpp
+         InjectCodeDlg.cpp
+     1>InjectCodeDlg.cpp(64): warning C4101: 'Time' : unreferenced local variable
+         KernelDlg.cpp
+         HpTcpServer.cpp
+         HpUdpServer.cpp
+         ipc.cpp
+         ISocketBase.cpp
+         LockDlg.cpp
+         LogView.cpp
+         MainFrm.cpp
+     1>c:\users\administrator\desktop\winos\主控\quick\H264ScreenSpyDlg.h(5): fatal error C1083: Cannot open include file: 'sdl/SDL.h': No such file or directory
+         md5.cpp
+         MemoryModule.cpp
+         ProxyMapDlg.cpp
+         QuickScreenSpyDlg.cpp
+         SEU_QQwry.cpp
+         SoundToWav.h.cpp
+         stdafx.cpp
+         TipCtrl.cpp
+         TipfileCtrl.cpp
+         TKYLockRW.cpp
+         WaveIn.cpp
+         WaveOut.cpp
+         WavePlayback.cpp
+         WaveRecord.cpp
+         Quick.cpp
+         QuickDoc.cpp
+         QuickView.cpp
+         ShellDlg.cpp
+         Chat.cpp
+         FileManagerDlg.cpp
+         FileTransferModeDlg.cpp
+         InputDlg.cpp
+         LFileName.cpp
+         RegeditDlg.cpp
+         RegeditTextDlg.cpp
+         SpeakerDlg.cpp
+         AudioRender.cpp
+         AudioCapture.cpp
+         WebCamDlg.cpp
+         MovieMaker.cpp
+         BuildDlg.cpp
+         AudioDlg.cpp
+         DifScreenSpyDlg.cpp
+         BmpToAvidif.cpp
+         ExpandDlg.cpp
+         ServiceInfoDlg.cpp
+         KeyBoardDlg.cpp
+         MachineDlg.cpp
+         HideScreenSpyDlg.cpp
+         CTextDlg.cpp
+         DllToShellCode.cpp
+         H264ScreenSpyDlg.cpp
+     1>c:\users\administrator\desktop\winos\主控\quick\H264ScreenSpyDlg.h(5): fatal error C1083: Cannot open include file: 'sdl/SDL.h': No such file or directory
+         LocalUpload.cpp
+         PlugView.cpp
+         XvidDec.cpp
+         DDOSAttackDlg.cpp
+         FlowAttackDlg.cpp
+         WebAttackDlg.cpp
+         ProxyConnectServer.cpp
+         LOGIN.cpp
+         TabView.cpp
+         ScreenMonitorDlg.cpp
+         CCreateTaskDlg.cpp
+         ChangeGroupDlg.cpp
+         CopyClientDlg.cpp
+     1>Done Building Project "C:\Users\Administrator\Desktop\winos\主控\Quick\Quick.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:43.74
