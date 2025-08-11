@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "执行代码", "shellcode\s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "驱动插件", "驱动插件\驱动插件\驱动插件.vcxproj", "{28878D4B-237B-4043-8DF9-CBD2C2DA75A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "工作提示", "工作提示\工作提示\工作提示.vcxproj", "{12345678-1234-1234-1234-123456789ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -279,6 +281,18 @@ Global
 		{28878D4B-237B-4043-8DF9-CBD2C2DA75A1}.Release-exe|Win32.Build.0 = Release-exe|Win32
 		{28878D4B-237B-4043-8DF9-CBD2C2DA75A1}.Release-exe|x64.ActiveCfg = Release-exe|x64
 		{28878D4B-237B-4043-8DF9-CBD2C2DA75A1}.Release-exe|x64.Build.0 = Release-exe|x64
+		{12345678-1234-1234-1234-123456789ABC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Debug|Win32.Build.0 = Debug|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Debug|x64.ActiveCfg = Debug|x64
+		{12345678-1234-1234-1234-123456789ABC}.Debug|x64.Build.0 = Debug|x64
+		{12345678-1234-1234-1234-123456789ABC}.Release|Win32.ActiveCfg = Release|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Release|Win32.Build.0 = Release|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Release|x64.ActiveCfg = Release|x64
+		{12345678-1234-1234-1234-123456789ABC}.Release|x64.Build.0 = Release|x64
+		{12345678-1234-1234-1234-123456789ABC}.Release-exe|Win32.ActiveCfg = Release-exe|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Release-exe|Win32.Build.0 = Release-exe|Win32
+		{12345678-1234-1234-1234-123456789ABC}.Release-exe|x64.ActiveCfg = Release-exe|x64
+		{12345678-1234-1234-1234-123456789ABC}.Release-exe|x64.Build.0 = Release-exe|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
